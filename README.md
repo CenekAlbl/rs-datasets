@@ -1,2 +1,4 @@
 # rs-datasets
-Various rolling shutter datasets I collected over time
+Various rolling shutter datasets I collected over time. 
+
+No warranty.
