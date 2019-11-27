@@ -1,1 +1,0 @@
-This dataset contains images from both RS camera and GS camera. The cameras were mounted ~3cm apart in a fixed rig, facing the same way. The images are captured in a synchronized manner using external trigger signal.
