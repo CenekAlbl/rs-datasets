@@ -16,6 +16,12 @@ GS camera:
 0.00000000e+00 1.05617700e+03 5.27454485e+02  
 0.00000000e+00 0.00000000e+00 1.00000000e+00  
 
+Radial distortion parameters from OpenCV calibration:  
+  
+RS: -0.06424132,  0.1127766 , -0.0018098 ,  0.00231901, -0.02880849  
+GS: -4.23283500e-01,  2.64619781e-01,  2.82033911e-04, -3.18580796e-04, -1.23571539e-01  
+
+
 Note that the colors are strange due to missing auto white balance.
 
 The RS reqdout time per line is calculated as 1 / (FPS * (image height + 28)). In this case FPS was set to 30, eventhough the readout was externally triggered. I.e. the readout time per line was 1.60565e-05 s and for the entire image 0.032883 s.
